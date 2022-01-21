@@ -1,0 +1,30 @@
+body{
+    background-color:beige;
+}
+.b_img{
+    height: 75vh;
+    opacity: 0.8;
+}
+.our_mission,.client{
+    color: #14ecac;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.browse_all_cars:hover{
+    color:#14ecac;
+}
+.car_option:hover{
+    color:#14ecac;
+
+}
+.car_collection{
+    height: 240px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+}
+.profile{
+    height: 120px;
+    width: 117px;
+}
